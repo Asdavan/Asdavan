@@ -1,5 +1,5 @@
 -# <span style="color: #00b4d8;">Quantum</span> Explorer 🚀  
-> **AI-Powered Quantum Projects** by ERRO 
+> ** Quantum Projects** by ERRO 
 > *"Exploring qubits, one superposition at a time."*  
 
 <div align="center">
