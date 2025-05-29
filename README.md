@@ -11,8 +11,6 @@
 |---------|-------------|------|  
 | [Quantum Password Gen](link) | Generate unhackable passwords using qubits | Qiskit, Python |  
 | [Quantum Music Composer](link) | Turn qubits into melodies | Pygame, Qiskit |  
-| [QubitCoin Miner](link) | (Futuristic) Quantum cryptocurrency miner | Q# |  
-
 ## ⚙️ **Installation**  
 ```bash  
 git clone https://github.com/[username]/quantum-explorer  
