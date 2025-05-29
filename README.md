@@ -13,5 +13,5 @@
 | [Quantum Music Composer](link) | Turn qubits into melodies | Pygame, Qiskit |  
 ## ⚙️ **Installation**  
 ```bash  
-git clone https://github.com/[username]/quantum-explorer  
+git clone https://github.com/...
 pip install -r requirements.txt  # Hanya butuh qiskit & mimpi  
